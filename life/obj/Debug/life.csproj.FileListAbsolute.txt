@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\bin\Debug\life.exe.config
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\bin\Debug\life.exe
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\bin\Debug\life.pdb
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.MainForm.resources
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.exe
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.pdb
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.About.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\bin\Debug\life.exe.config
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\bin\Debug\life.exe
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\bin\Debug\life.pdb
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.csprojResolveAssemblyReference.cache
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.About.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.MainForm.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.csproj.GenerateResource.Cache
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.exe
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\симуляция жизни\life\obj\Debug\life.pdb
